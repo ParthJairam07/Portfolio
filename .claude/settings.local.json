@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "mcp__Claude_in_Chrome__navigate",
+      "mcp__Claude_in_Chrome__computer",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:itompoland.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:gsap.com)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
